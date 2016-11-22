@@ -5,5 +5,5 @@ Created on 22 nov. 2016
 '''
 numero1=float(input("Escribe el primer numero:"))
 numero2=float(input("Escribe el segundo numero:"))
-division=numero1/numero2
-print("La division de los dos numeros es %f"%division)
+resta=numero1-numero2
+print("La resta de los dos numeros es %f"%resta)
